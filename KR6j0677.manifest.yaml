@@ -1,0 +1,190 @@
+canonical_identifier: bkk:krp/KR6j0677/v1
+canonical_location: https://kanripo.org/bkk/KR6j0677/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經熏聞記
+  identifiers:
+    alt_id:
+    - X11n0269
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X11/X11n0269.xml
+    old_id: X11n0269
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0677_000.yaml, hash: 'sha256:b28c70cb8c9be8f7dbb3c810b11d3b2aec7d2bcbe02e3137fd7246d68a36adb7'}
+  - {seq: 1, filename: KR6j0677_001.yaml, hash: 'sha256:86019354e3bafd8208237663eddba242c9a1a4b2dfe8647ca54ff1a34a6c3fa3'}
+  - {seq: 2, filename: KR6j0677_002.yaml, hash: 'sha256:ec111a730376a92f83147e876d0e923fa8ee9122e7a171946d5082b512b7e55e'}
+  - {seq: 3, filename: KR6j0677_003.yaml, hash: 'sha256:34b0612468f6e5fff900868da66eab89558271a09e96b174d9ad78afda2eebc1'}
+  - {seq: 4, filename: KR6j0677_004.yaml, hash: 'sha256:075604cd4756799eaf4c10d1ea1cc535fae01ab961ee6f318920b87dd9e95414'}
+  - {seq: 5, filename: KR6j0677_005.yaml, hash: 'sha256:dea2090406debef53dc05475a315b08ffb46122af2323b5ce7000fd167f9e3e8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0677_001.markers.yaml, hash: 'sha256:881b27a62de404aa1d40f63dbcf0231d1b313cc83f77932578e308e5cf2a8a9f'}
+  - {seq: 2, role: markers, filename: assets/KR6j0677_002.markers.yaml, hash: 'sha256:111882441cfaebeee07aaa53e93c70002044dd51fb3c0fd77b4416899d794005'}
+  - {seq: 3, role: markers, filename: assets/KR6j0677_003.markers.yaml, hash: 'sha256:ceaa16dca8ce34a723ab52dfbc426ff0888ba9537005739d08619e03cf1e5a5b'}
+  - {seq: 4, role: markers, filename: assets/KR6j0677_004.markers.yaml, hash: 'sha256:6092c34321d3f0f56749980e9a19e27f92b47df9196910c5caf9b608efcb31b0'}
+  - {seq: 5, role: markers, filename: assets/KR6j0677_005.markers.yaml, hash: 'sha256:7732e9a9037f8eba6766ee6e396ca950285486fa7be386c0073eda3770d1b6fc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0677_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 18546
+  label: 首楞嚴經集解熏聞記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0677_X_001-mulu-1
+    span:
+    - body
+    - 97
+    - 97
+  label: 起第一卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0677_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 17319
+  label: 首楞嚴經集解熏聞記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0677_X_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 起第二卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0677_X_002-mulu-2
+    span:
+    - body
+    - 9257
+    - 9257
+  label: 起第三卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0677_X_002-mulu-3
+    span:
+    - body
+    - 14444
+    - 14444
+  label: 起第四卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0677_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 18192
+  label: 首楞嚴經集解熏聞記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0677_X_003-mulu-1
+    span:
+    - body
+    - 11352
+    - 11352
+  label: 起第五卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0677_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 19210
+  label: 首楞嚴經集解熏聞記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0677_X_004-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 起第六卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0677_X_004-mulu-2
+    span:
+    - body
+    - 10451
+    - 10451
+  label: 起第七卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0677_X_004-mulu-3
+    span:
+    - body
+    - 17281
+    - 17281
+  label: 起第八卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0677_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 18764
+  label: 首楞嚴經集解熏聞記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0677_X_005-mulu-1
+    span:
+    - body
+    - 9164
+    - 9164
+  label: 起第九卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0677_X_005-mulu-2
+    span:
+    - body
+    - 15518
+    - 15518
+  label: 起第十卷
+  type: mulu
+  level: 1
+hash: sha256:67f35ee6106a8d487a0b41d3d1c1ad16f8a9ef7a5b206001a0cf16352b67331d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
